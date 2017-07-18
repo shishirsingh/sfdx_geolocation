@@ -2,14 +2,14 @@
     [
         "/Users/shichauhan/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/shichauhan/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1500380772000,
             "changeTime": 1500380772000,
             "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/shichauhan/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1500380772000,
             "changeTime": 1500380772000,
             "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "/Users/shichauhan/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1500381661000,
             "changeTime": 1500381661000,
-            "contentHash": "3df8033f80e11fefd4a514d70989d592a62a1fec"
+            "contentHash": "3df8033f80e11fefd4a514d70989d592a62a1fec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/shichauhan/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 68,
             "modifiedTime": 1500377877000,
             "changeTime": 1500377877000,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/Users/shichauhan/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Users/shichauhan/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1500380818000,
             "changeTime": 1500380818000,
             "contentHash": "9f80c4a0c54275d0c05dd8b461ae5ebcb3bd8805",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -261,10 +261,10 @@
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 403,
-            "modifiedTime": 1500381661000,
-            "changeTime": 1500381661000,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "size": 402,
+            "modifiedTime": 1500384482000,
+            "changeTime": 1500384482000,
+            "contentHash": "dc54d757bc8e78d955603c332e47273bc2fa8788"
         }
     ],
     [
@@ -664,10 +664,10 @@
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10773,
-            "modifiedTime": 1500381661000,
-            "changeTime": 1500381661000,
-            "contentHash": "f109e39e243acebb54dcca9a9f076097b06917b8"
+            "size": 10777,
+            "modifiedTime": 1500384482000,
+            "changeTime": 1500384482000,
+            "contentHash": "cd442a85a0b7357070d1039bd5c05f4b6e778bae"
         }
     ],
     [
@@ -677,10 +677,10 @@
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10769,
-            "modifiedTime": 1500381661000,
-            "changeTime": 1500381661000,
-            "contentHash": "a6f7c45913576b81142ea7f2bd66538639f75fa1"
+            "size": 10773,
+            "modifiedTime": 1500384482000,
+            "changeTime": 1500384482000,
+            "contentHash": "50f70622f8bc4091c915cb76cde8e3e502458994"
         }
     ],
     [
@@ -690,10 +690,10 @@
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10757,
-            "modifiedTime": 1500381661000,
-            "changeTime": 1500381661000,
-            "contentHash": "fd1ca92b9cb461978873813339e3fd5cbd82ee7f"
+            "size": 10761,
+            "modifiedTime": 1500384482000,
+            "changeTime": 1500384482000,
+            "contentHash": "37b96d738b56680f52e33a6bf820dc5b761e3e5d"
         }
     ],
     [
@@ -703,114 +703,114 @@
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10757,
-            "modifiedTime": 1500381661000,
-            "changeTime": 1500381661000,
-            "contentHash": "66660b8152a7b5e24e24fce057695fe5c89f630b"
+            "size": 10761,
+            "modifiedTime": 1500384482000,
+            "changeTime": 1500384482000,
+            "contentHash": "6380f82a0009cf588b8934feeb1440b1a464ee71"
         }
     ],
     [
         "/Users/shichauhan/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6297,
             "modifiedTime": 1500381661000,
             "changeTime": 1500381661000,
-            "contentHash": "efe67e348473c44f2d5c1eae78f54b4cd285b281"
+            "contentHash": "efe67e348473c44f2d5c1eae78f54b4cd285b281",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/shichauhan/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1500381661000,
             "changeTime": 1500381661000,
-            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d"
+            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/shichauhan/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1500381661000,
             "changeTime": 1500381661000,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/shichauhan/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 1360,
             "modifiedTime": 1500381661000,
             "changeTime": 1500381661000,
-            "contentHash": "bfd837c31714ac93bd124f417af03e00cc54688b"
+            "contentHash": "bfd837c31714ac93bd124f417af03e00cc54688b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/shichauhan/geolocation/force-app/main/default/objects/Account/webLinks",
         {
-            "state": "u",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/objects/Account/webLinks",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1500381661000,
             "changeTime": 1500381661000,
-            "contentHash": "0caec06144c909e4216d06654080dee841554608"
+            "contentHash": "0caec06144c909e4216d06654080dee841554608",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/shichauhan/geolocation/force-app/main/default/objects/Account/listViews",
         {
-            "state": "u",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/objects/Account/listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1500381661000,
             "changeTime": 1500381661000,
-            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05"
+            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/shichauhan/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1500381661000,
             "changeTime": 1500381661000,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/shichauhan/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/shichauhan/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1500381661000,
             "changeTime": 1500381661000,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
